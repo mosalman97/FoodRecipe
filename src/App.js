@@ -5,7 +5,7 @@ import Recipecardwrapper from "./Components/Header/Recipecards/Recipecardwrapper
 function App() {
   return (
     <div>
-      <Header />
+      <Header/>
       <Recipecardwrapper/>
     </div>
   );

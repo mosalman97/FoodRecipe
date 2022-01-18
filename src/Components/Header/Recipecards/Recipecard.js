@@ -1,5 +1,7 @@
 import React from 'react'
 import "./Recipecard.css"
+import {Time,User} from "../../../Assets/Logos/index"
+
 export default function Recipecard() {
     return (
         <div className='recipecard'>
