@@ -1,0 +1,21 @@
+.recipecard{
+    margin:10px; 
+    width:250px;
+    height:300px;
+    display: flex;
+    border:1px solid #ccc;
+    border-radius:10px;
+    background-color:white;
+    flex-direction:column;
+}
+.recipecard .imagebox{
+    width:250px;
+    height:200px;
+    border-bottom:1px solid #ccc;
+
+}
+.recipecard .title{
+    font-size:15px;
+    color:black;
+    
+}
