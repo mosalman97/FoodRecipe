@@ -5,7 +5,7 @@ export default function Recipecard() {
         <div className='recipecard'>
             <div className='imagebox'></div>
             <span className='title'>Title</span>
-            <div> </div>
+            <div></div>
         </div>
     )
 }
