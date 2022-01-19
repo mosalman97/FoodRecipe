@@ -19,3 +19,13 @@
     color:black;
     margin:5px;
 }
+.recipecard .recipeinfo{
+    color:#868585;
+    display:flex;
+    align-items:center;
+    margin:5px;
+    font-size:14px;
+}
+.recipecard .recipeinfo span{
+    margin:0px 10px 0px 5px;
+}
