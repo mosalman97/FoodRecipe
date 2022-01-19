@@ -1,3 +1,8 @@
+.recipeWrapper{
+    width:100%;
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(270px,1fr));
+}
 .recipecard{
     margin:10px; 
     width:250px;
@@ -11,7 +16,8 @@
 .recipecard .imagebox{
     width:250px;
     height:200px;
-    border-bottom:1px solid #ccc;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
 
 }
 .recipecard .title{
