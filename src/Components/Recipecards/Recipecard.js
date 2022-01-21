@@ -1,7 +1,7 @@
 import React from 'react'
 import "./Recipecard.css"
-import Clock from "../../../Assets/Logos/clock.png";
-import User from "../../../Assets/Logos/users.png";
+import Clock from "../../Assets/Logos/clock.png";
+import User from "../../Assets/Logos/users.png";
 
 export default function Recipecard(props) {
     let {recipe} = props;
