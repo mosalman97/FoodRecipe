@@ -1,6 +1,6 @@
 import React,{useState,useEffect} from "react";
-import Header from "./Components/Header/Header";
-import Recipecardwrapper from "./Components/Header/Recipecards/Recipecardwrapper";
+import Header from "../src/Components/Header/Header"
+import Recipecardwrapper from "./Components/Recipecards/Recipecardwrapper"
 
 
 function App() {
