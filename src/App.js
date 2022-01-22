@@ -2,7 +2,7 @@ import React,{useState,useEffect} from "react";
 import Header from "../src/Components/Header/Header"
 import Recipecardwrapper from "./Components/Recipecards/Recipecardwrapper"
 import {BrowserRouter as Router,Route,Switch} from "react-router-dom"
-import Recipedetails from "./Components/Recipecards/Recipedetails";
+import Recipedetails from "./Components/Recipedetails/Recipedetails";
 
 function App() {
   const[recipe,setRecipe] = useState(null)
