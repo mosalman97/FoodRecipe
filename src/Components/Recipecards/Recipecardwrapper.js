@@ -1,8 +1,10 @@
 import React,{useEffect,useState} from 'react'
 import Recipecard from "./Recipecard"
+import { useLocation } from "react-router-dom"
 import "./Recipecard.css"
 const Api_Key =  "dde82b867e0d42caa192f5c5f549fb19";
 export default function Recipecardwrapper(props) {
+    let urlState = useLocation().state
     const[recipes,setRecipes] = useState([])
      useEffect(()=>{
        if(props.selectedRecipe) fecthApi()
@@ -15,7 +17,9 @@ export default function Recipecardwrapper(props) {
 
      }
     return (
-        <div className='recipeWrapper'>
+        <div className='recipeWrapper'
+          style={{width:urlState && urlState.hasdetails ? "60%" : "100%"}}
+        >
            {
                recipes.map(recipe=><Recipecard  key={recipe.id} recipe={recipe} />)
            }
