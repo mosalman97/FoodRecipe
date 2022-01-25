@@ -25,5 +25,48 @@ body{
 form .text_field{
     position: relative;
     border-bottom:2px solid #adadad;
-    margin:30px;
+    margin:30px 0;
+
+}
+.text_field input{
+    width:100%;
+    padding:0 5px;
+    height:40px;
+    font-size: 16px;
+    border: none;
+    outline:none;
+}
+.text_field label{
+    position:absolute;
+    top:50%;
+    left:5px;
+    color:#adadad;
+    transform:translateY(-50%);
+    font-size:16px;
+    pointer-events:none;
+    transition:.5s;
+}
+.text_field span::before{
+   content:'';
+   position:absolute;
+   top:40px;
+   left:0;
+   width:100%;
+   height:2px;
+   background:#2691d9;
+}
+.text_field input:focus ~ label,
+.text_field input:valid ~ label{
+    top:-5px;
+    color:#2691d9;
+} 
+.Container .button{
+    width:100%;
+    height:50px;
+    border-radius:25px;
+    margin-bottom:20px;
+    font-size:20px;
+    font-weight:bold;
+    cursor: pointer;
+    outline:none;
 }

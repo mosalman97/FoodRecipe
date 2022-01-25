@@ -7,15 +7,13 @@ let Login = ()=>{
         <div className="Container">
             <h1>Login</h1>
             <form>
-                <div className="text_field">
-                    <input type="text"   />
-                    <label>Username</label>
-                </div>
-                <div className="text_field">
-                    <input type="password"   />
-                    <label>Password</label>
-                </div>
-                <button>Login</button>
+               <div className="text_field">
+                  <input type="text" placeholder="Username"  value="" />
+               </div>
+               <div className="text_field">
+                  <input type="password" placeholder="Password"  value="" />
+               </div>
+               <input className="button" type="button"  value="Sign In" />
             </form>
         </div>
     )
