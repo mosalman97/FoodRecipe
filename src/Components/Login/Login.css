@@ -46,20 +46,6 @@ form .text_field{
     pointer-events:none;
     transition:.5s;
 }
-.text_field span::before{
-   content:'';
-   position:absolute;
-   top:40px;
-   left:0;
-   width:100%;
-   height:2px;
-   background:#2691d9;
-}
-.text_field input:focus ~ label,
-.text_field input:valid ~ label{
-    top:-5px;
-    color:#2691d9;
-} 
 .Container .button{
     width:100%;
     height:50px;
