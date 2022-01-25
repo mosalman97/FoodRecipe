@@ -4,7 +4,7 @@ import "./Login.css"
 
 let Login = ()=>{
     return(
-        <div className="center">
+        <div className="Container">
             <h1>Login</h1>
             <form>
                 <div className="text_field">
@@ -15,6 +15,7 @@ let Login = ()=>{
                     <input type="password"   />
                     <label>Password</label>
                 </div>
+                <button>Login</button>
             </form>
         </div>
     )
