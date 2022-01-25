@@ -15,6 +15,15 @@ body{
 }
 .Container h1{
     text-align: center;
-    padding:0 0 20px 0;
+    padding:0 0 10px 0;
     border-bottom:1px solid silver;
+}
+.Container form{
+   padding:0 40px;
+   box-sizing:border-box;
+}
+form .text_field{
+    position: relative;
+    border-bottom:2px solid #adadad;
+    margin:30px;
 }
