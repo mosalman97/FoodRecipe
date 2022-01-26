@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route,Switch} from "react-router-dom";
 import Header from "../src/Components/Header/Header"
 import Login from "./Components/Login/Login";
 import Recipecardwrapper from "./Components/Recipecards/Recipecardwrapper"
+import Recipedetails from "./Components/Recipedetails/Recipedetails";
 
 function App() {
   const[recipe,setRecipe] = useState(null)
@@ -10,19 +11,15 @@ function App() {
      setRecipe(recipe)
   }
   return (
-    
-       <Router>
-         <Switch>
-         <Route path="/" exact>
-            <Login />
-          </Route>
-         <Header onRecipeSelect={onRecipeSelect} />
-         <Recipecardwrapper selectedRecipe={recipe} />   
-         </Switch>
-         
-     </Router>
-     
- 
+    <Router>
+      <Header onRecipeSelect={onRecipeSelect} />
+      <Recipecardwrapper selectedRecipe={recipe} />
+      <Switch>
+        <Route path="/recipe/:recipeID">
+           <Recipedetails />
+        </Route>
+      </Switch>
+    </Router>
   )
 }
 
