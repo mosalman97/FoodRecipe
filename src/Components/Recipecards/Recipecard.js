@@ -9,11 +9,7 @@ export default function Recipecard(props) {
     let {recipe} = props;
     return (
         <div className='recipecard'>
-           <Link to={
-               {
-                 pathname:`/recipe/${recipe.id}`
-               }
-           }>
+           <Link to={{pathname:`/recipe/${recipe.id}`}}>
            <img src={recipe.image} alt="RecipeImage " className='imagebox'></img>
             <span className='title'>{recipe.title}</span>
             <div className='recipeinfo'>  

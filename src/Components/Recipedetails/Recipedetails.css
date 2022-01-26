@@ -1,0 +1,15 @@
+.recipedetails{
+  position: absolute;
+  top:50px;
+  right:0px;
+  bottom:0px;
+  width:40%;
+  height:auto;
+  background-color:gray;
+  border-left:1px solid black
+}
+.close{
+    position: absolute;
+    
+}
+

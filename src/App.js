@@ -13,7 +13,7 @@ function App() {
   return (
     <Router>
       <Header onRecipeSelect={onRecipeSelect} />
-      <Recipecardwrapper selectedRecipe={recipe} />
+      <Recipecardwrapper selectedRecipe={recipe} /> 
       <Switch>
         <Route path="/recipe/:recipeID">
            <Recipedetails />
