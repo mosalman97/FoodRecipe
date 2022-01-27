@@ -10,7 +10,7 @@ export default function Recipecard(props) {
     return (
         <div className='recipecard'>
            <Link to={{pathname:`/recipe/${recipe.id}`
-           }}>
+           }} className='linkcard'>
            <img src={recipe.image} alt="RecipeImage " className='imagebox'></img>
             <span className='title'>{recipe.title}</span>
             <div className='recipeinfo'>  
