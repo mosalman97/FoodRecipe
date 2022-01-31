@@ -19,7 +19,7 @@ let Login = ()=>{
     }
     return(
         <div className="Container">
-            <h1>Food App</h1>
+            <h1>Food Recipes</h1>
             <form onSubmit={Login}>
                <div className="text_field">
                   <input type="text" onChange={(e)=>setusername(e.target.value)} value={username}  placeholder="Username" />

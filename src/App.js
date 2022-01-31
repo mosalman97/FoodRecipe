@@ -13,8 +13,9 @@ function App() {
     return (
         <Router>
             <Switch>
-                <Route path="/" exact component={Login} />
-                 
+                <Route path="/" exact>
+                  <Login />
+                </Route>
                 <Route path="/recipe/:recipeID">
                     <Recipedetails />
                 </Route>

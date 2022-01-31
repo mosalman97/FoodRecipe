@@ -2,7 +2,7 @@ import React,{useEffect,useState} from 'react'
 import Recipecard from "./Recipecard"
 import "./Recipecard.css"
 
-const Api_Key =  "dde82b867e0d42caa192f5c5f549fb19";
+const Api_Key =  "33743a6aa75243a9808c4a5e8f7cadb8";
 export default function Recipecardwrapper(props) {
  
     const[recipes,setRecipes] = useState([])
@@ -13,7 +13,7 @@ export default function Recipecardwrapper(props) {
          let response = await fetch(`https://api.spoonacular.com/recipes/complexSearch?apiKey=${Api_Key}&cuisine=${props.selectedRecipe}&addRecipeInformation=true&number=10`)
          let recipeData = await response.json()
          setRecipes(recipeData.results)
-         console.log(recipeData)
+        //  console.log(recipeData.results)
      }
      
     return (

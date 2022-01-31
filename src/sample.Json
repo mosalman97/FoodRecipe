@@ -1,0 +1,2327 @@
+{
+    "results": [
+        {
+            "vegetarian": true,
+            "vegan": true,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 2,
+            "gaps": "no",
+            "lowFodmap": false,
+            "aggregateLikes": 32,
+            "spoonacularScore": 98,
+            "healthScore": 87,
+            "creditsText": "Lisa's Vegetarian Kitchen",
+            "license": "CC BY 2.5 CA",
+            "sourceName": "Food and Spice",
+            "pricePerServing": 100.72,
+            "id": 798400,
+            "title": "Spicy Black-Eyed Pea Curry with Swiss Chard and Roasted Eggplant",
+            "readyInMinutes": 45,
+            "servings": 6,
+            "sourceUrl": "http://foodandspice.blogspot.com/2016/08/spicy-black-eyed-pea-curry-with-swiss.html",
+            "image": "https://spoonacular.com/recipeImages/798400-312x231.jpg",
+            "imageType": "jpg",
+            "summary": "The recipe Spicy Black-Eyed Pea Curry with Swiss Chard and Roasted Eggplant is ready <b>in roughly 45 minutes</b> and is definitely a spectacular <b>gluten free and vegan</b> option for lovers of Indian food. This recipe makes 6 servings with <b>130 calories</b>, <b>7g of protein</b>, and <b>2g of fat</b> each. For <b>99 cents per serving</b>, this recipe <b>covers 21%</b> of your daily requirements of vitamins and minerals. A few people made this recipe, and 32 would say it hit the spot. A mixture of chilies, olive oil, garam masala, and a handful of other ingredients are all it takes to make this recipe so delicious. All things considered, we decided this recipe <b>deserves a spoonacular score of 98%</b>. This score is amazing. Try <a href=\"https://spoonacular.com/recipes/black-eyed-peas-in-a-spicy-goan-curry-31050\">Black-eyed Peas In A Spicy Goan Curry</a>, <a href=\"https://spoonacular.com/recipes/black-eyed-peas-in-a-spicy-goan-curry-31057\">Black-eyed Peas In A Spicy Goan Curry</a>, and <a href=\"https://spoonacular.com/recipes/roasted-butternut-squash-black-bean-and-swiss-chard-quinoa-bibimbap-247604\">Roasted Butternut Squash, Black Bean and Swiss Chard Quinoa Bibimbap</a> for similar recipes.",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [
+                "side dish"
+            ],
+            "diets": [
+                "gluten free",
+                "dairy free",
+                "lacto ovo vegetarian",
+                "vegan"
+            ],
+            "occasions": [],
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Rinse the black-eyed peas and soak in several inches of water for 6 hours or overnight.",
+                            "ingredients": [
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                },
+                                {
+                                    "id": 11304,
+                                    "name": "peas",
+                                    "localizedName": "peas",
+                                    "image": "peas.jpg"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 360,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 2,
+                            "step": "Drain and rinse, then transfer to a large saucepan and cover with fresh water. Bring to a boil, reduce heat to medium-low, cover, and simmer for 40 to 60 minutes. Take care not to overcook  the beans should be tender but not be falling apart.",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "beans",
+                                    "localizedName": "beans",
+                                    "image": "kidney-beans.jpg"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404669,
+                                    "name": "sauce pan",
+                                    "localizedName": "sauce pan",
+                                    "image": "sauce-pan.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 40,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 3,
+                            "step": "Drain and set aside.To prepare the eggplant, cut of the stem and bottom edge and then cut in half lengthwise. Score the flesh into diagonal 1-inch lines, then turn and score again until you have a diagonal pattern. Take care not to cut through the skin.",
+                            "ingredients": [
+                                {
+                                    "id": 11209,
+                                    "name": "eggplant",
+                                    "localizedName": "eggplant",
+                                    "image": "eggplant.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 4,
+                            "step": "Sprinkle with some salt and let sit for 40 minutes. Rinse and squeeze out any excess water.",
+                            "ingredients": [
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "localizedName": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 40,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 5,
+                            "step": "Brush the eggplant with some oil and transfer to a roasting pan.",
+                            "ingredients": [
+                                {
+                                    "id": 11209,
+                                    "name": "eggplant",
+                                    "localizedName": "eggplant",
+                                    "image": "eggplant.png"
+                                },
+                                {
+                                    "id": 4582,
+                                    "name": "cooking oil",
+                                    "localizedName": "cooking oil",
+                                    "image": "vegetable-oil.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404629,
+                                    "name": "roasting pan",
+                                    "localizedName": "roasting pan",
+                                    "image": "roasting-pan.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "step": "Bake in a preheated 400 oven until the flesh appears collapsed and is wrinkly.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "oven.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 7,
+                            "step": "Remove from heat and let cool for about 10 minutes, season with a bit of salt, and remove the flesh from the eggplant. If there is too much water, drain in a strainer. Set aside.",
+                            "ingredients": [
+                                {
+                                    "id": 11209,
+                                    "name": "eggplant",
+                                    "localizedName": "eggplant",
+                                    "image": "eggplant.png"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "localizedName": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 405600,
+                                    "name": "sieve",
+                                    "localizedName": "sieve",
+                                    "image": "strainer.png"
+                                }
+                            ],
+                            "length": {
+                                "number": 10,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 8,
+                            "step": "Heat the oil over medium heat in the same saucepan used to cook the black-eyed peas. When hot, toss in the shallots and chilies and saut for 2 to 3 minutes. Now add the spices and stir for another minute, until fragrant.",
+                            "ingredients": [
+                                {
+                                    "id": 11677,
+                                    "name": "shallot",
+                                    "localizedName": "shallot",
+                                    "image": "shallots.jpg"
+                                },
+                                {
+                                    "id": 11819,
+                                    "name": "chili pepper",
+                                    "localizedName": "chili pepper",
+                                    "image": "red-chili.jpg"
+                                },
+                                {
+                                    "id": 2035,
+                                    "name": "spices",
+                                    "localizedName": "spices",
+                                    "image": "spices.png"
+                                },
+                                {
+                                    "id": 11304,
+                                    "name": "peas",
+                                    "localizedName": "peas",
+                                    "image": "peas.jpg"
+                                },
+                                {
+                                    "id": 4582,
+                                    "name": "cooking oil",
+                                    "localizedName": "cooking oil",
+                                    "image": "vegetable-oil.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404669,
+                                    "name": "sauce pan",
+                                    "localizedName": "sauce pan",
+                                    "image": "sauce-pan.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 2,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 9,
+                            "step": "Add the tomato, cook for another few minutes, and then add the eggplant and black-eyed peas, and cook for another few minutes, stirring often.",
+                            "ingredients": [
+                                {
+                                    "id": 11209,
+                                    "name": "eggplant",
+                                    "localizedName": "eggplant",
+                                    "image": "eggplant.png"
+                                },
+                                {
+                                    "id": 11529,
+                                    "name": "tomato",
+                                    "localizedName": "tomato",
+                                    "image": "tomato.png"
+                                },
+                                {
+                                    "id": 11304,
+                                    "name": "peas",
+                                    "localizedName": "peas",
+                                    "image": "peas.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 10,
+                            "step": "Pour a few tablespoons of water into the pan and add handfuls of chard at a time until wilted.",
+                            "ingredients": [
+                                {
+                                    "id": 11147,
+                                    "name": "swiss chard",
+                                    "localizedName": "swiss chard",
+                                    "image": "swiss-chard.jpg"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "pan.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 11,
+                            "step": "Add more water as necessary.",
+                            "ingredients": [
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 12,
+                            "step": "Add the lemon juice and salt to taste near the end of the cooking time.",
+                            "ingredients": [
+                                {
+                                    "id": 9152,
+                                    "name": "lemon juice",
+                                    "localizedName": "lemon juice",
+                                    "image": "lemon-juice.jpg"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "localizedName": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 13,
+                            "step": "Remove from heat, cover, and let sit for a few minutes before serving.",
+                            "ingredients": [],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "spoonacularSourceUrl": "https://spoonacular.com/spicy-black-eyed-pea-curry-with-swiss-chard-and-roasted-eggplant-798400"
+        },
+        {
+            "vegetarian": true,
+            "vegan": true,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 12,
+            "gaps": "no",
+            "lowFodmap": false,
+            "aggregateLikes": 3,
+            "spoonacularScore": 95,
+            "healthScore": 100,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 252.69,
+            "id": 646043,
+            "title": "Gujarati Dry Mung Bean Curry",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "http://www.foodista.com/recipe/G6ZJW56S/gujarati-dry-mung-bean-curry",
+            "image": "https://spoonacular.com/recipeImages/646043-312x231.jpg",
+            "imageType": "jpg",
+            "summary": "The recipe Gujarati Dry Mung Bean Curry is ready <b>in around 45 minutes</b> and is definitely an excellent <b>gluten free and vegan</b> option for lovers of Indian food. For <b>$2.53 per serving</b>, this recipe <b>covers 45%</b> of your daily requirements of vitamins and minerals. This recipe makes 4 servings with <b>417 calories</b>, <b>23g of protein</b>, and <b>6g of fat</b> each. This recipe from Foodista has 2 fans. It works well as an affordable main course. A mixture of salt, sugar, cinnamon powder, and a handful of other ingredients are all it takes to make this recipe so flavorful. To use up the cumin seeds you could follow this main course with the <a href=\"https://spoonacular.com/recipes/indian-fried-banana-cakes-mangalore-buns-899949\">Indian Fried Banana Cakes (Mangalore Buns)</a> as a dessert. All things considered, we decided this recipe <b>deserves a spoonacular score of 94%</b>. This score is amazing. Try <a href=\"https://spoonacular.com/recipes/uncle-bills-mung-bean-curry-113139\">Uncle Bill's Mung Bean Curry</a>, <a href=\"https://spoonacular.com/recipes/mung-bean-crepes-34435\">Mung Bean Crepes</a>, and <a href=\"https://spoonacular.com/recipes/korean-mung-with-bean-34423\">Korean Mung With Bean</a> for similar recipes.",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [
+                "gluten free",
+                "dairy free",
+                "lacto ovo vegetarian",
+                "vegan"
+            ],
+            "occasions": [],
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Wash the mung beans and boil them in plenty of hot water with a pinch of baking powder until al-dente. If you have a pressure cooker thats about 6-7 whistles.",
+                            "ingredients": [
+                                {
+                                    "id": 18369,
+                                    "name": "baking powder",
+                                    "localizedName": "baking powder",
+                                    "image": "white-powder.jpg"
+                                },
+                                {
+                                    "id": 16080,
+                                    "name": "mung beans",
+                                    "localizedName": "mung beans",
+                                    "image": "mung-beans.png"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404658,
+                                    "name": "pressure cooker",
+                                    "localizedName": "pressure cooker",
+                                    "image": "pressure-cooker.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Drain and set aside.In a large pan heat the oil and add the mustard seeds (wait for them to pop) then add the cumin seeds, asafoetida, curry leaves, garlic and chillies. Saut until aromatic. Obviously dont let it burn.",
+                            "ingredients": [
+                                {
+                                    "id": 2024,
+                                    "name": "mustard seeds",
+                                    "localizedName": "mustard seeds",
+                                    "image": "mustard-seeds.png"
+                                },
+                                {
+                                    "id": 93604,
+                                    "name": "curry leaves",
+                                    "localizedName": "curry leaves",
+                                    "image": "curry-leaves.jpg"
+                                },
+                                {
+                                    "id": 2014,
+                                    "name": "cumin seeds",
+                                    "localizedName": "cumin seeds",
+                                    "image": "ground-cumin.jpg"
+                                },
+                                {
+                                    "id": 1032035,
+                                    "name": "asafoetida",
+                                    "localizedName": "asafoetida",
+                                    "image": "curry-powder.jpg"
+                                },
+                                {
+                                    "id": 11819,
+                                    "name": "chili pepper",
+                                    "localizedName": "chili pepper",
+                                    "image": "red-chili.jpg"
+                                },
+                                {
+                                    "id": 11215,
+                                    "name": "garlic",
+                                    "localizedName": "garlic",
+                                    "image": "garlic.png"
+                                },
+                                {
+                                    "id": 4582,
+                                    "name": "cooking oil",
+                                    "localizedName": "cooking oil",
+                                    "image": "vegetable-oil.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "pop",
+                                    "localizedName": "soft drink",
+                                    "image": ""
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "pan.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "step": "Add the tomatoes, turmeric and mung beans and cook for two minutes. Be careful not to mash it up as you stir.",
+                            "ingredients": [
+                                {
+                                    "id": 16080,
+                                    "name": "mung beans",
+                                    "localizedName": "mung beans",
+                                    "image": "mung-beans.png"
+                                },
+                                {
+                                    "id": 11529,
+                                    "name": "tomato",
+                                    "localizedName": "tomato",
+                                    "image": "tomato.png"
+                                },
+                                {
+                                    "id": 2043,
+                                    "name": "turmeric",
+                                    "localizedName": "turmeric",
+                                    "image": "turmeric.jpg"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 2,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 4,
+                            "step": "Add the salt, sugar, lemon juice and cinnamon powder and cook for a further two minutes.Throw in the chopped coriander, combine and serve.",
+                            "ingredients": [
+                                {
+                                    "id": 1012010,
+                                    "name": "ground cinnamon",
+                                    "localizedName": "ground cinnamon",
+                                    "image": "cinnamon.jpg"
+                                },
+                                {
+                                    "id": 9152,
+                                    "name": "lemon juice",
+                                    "localizedName": "lemon juice",
+                                    "image": "lemon-juice.jpg"
+                                },
+                                {
+                                    "id": 1012013,
+                                    "name": "coriander",
+                                    "localizedName": "coriander",
+                                    "image": "ground-coriander.jpg"
+                                },
+                                {
+                                    "id": 19335,
+                                    "name": "sugar",
+                                    "localizedName": "sugar",
+                                    "image": "sugar-in-bowl.png"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "localizedName": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 2,
+                                "unit": "minutes"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "spoonacularSourceUrl": "https://spoonacular.com/gujarati-dry-mung-bean-curry-646043"
+        },
+        {
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 22,
+            "gaps": "no",
+            "lowFodmap": false,
+            "aggregateLikes": 26,
+            "spoonacularScore": 94,
+            "healthScore": 53,
+            "creditsText": "Afrolems",
+            "license": "CC BY 4.0",
+            "sourceName": "Afrolems",
+            "pricePerServing": 241.7,
+            "id": 716364,
+            "title": "Rice and Peas with Coconut Curry Mackerel",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "http://www.afrolems.com/2014/10/31/rice-and-peas-with-coconut-curry-mackerel/",
+            "image": "https://spoonacular.com/recipeImages/716364-312x231.jpg",
+            "imageType": "jpg",
+            "summary": "Rice and Peas with Coconut Curry Mackerel might be just the <b>Indian</b> recipe you are searching for. One serving contains <b>624 calories</b>, <b>31g of protein</b>, and <b>34g of fat</b>. This gluten free, dairy free, and pescatarian recipe serves 4 and costs <b>$2.42 per serving</b>. This recipe from Afrolems has 26 fans. It works well as a budget friendly main course. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. If you have seasoning cubes, mackerel, curry powder, and a few other ingredients on hand, you can make it. To use up the curry powder you could follow this main course with the <a href=\"https://spoonacular.com/recipes/curry-ice-cream-with-mango-and-pistachio-539368\">Curry Ice Cream with Mango and Pistachio</a> as a dessert. All things considered, we decided this recipe <b>deserves a spoonacular score of 95%</b>. This score is amazing. Similar recipes include <a href=\"https://spoonacular.com/recipes/coconut-chicken-curry-with-snow-peas-and-rice-157311\">Coconut Chicken Curry with Snow Peas and Rice</a>, <a href=\"https://spoonacular.com/recipes/black-eyed-peas-curry-with-coconut-lobia-curry-600742\">Black Eyed Peas Curry (With Coconut) (Lobia Curry)</a>, and <a href=\"https://spoonacular.com/recipes/skillet-chicken-with-snap-peas-mushrooms-and-coconut-curry-202063\">Skillet Chicken with Snap Peas, Mushrooms, and Coconut Curry</a>.",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [
+                "gluten free",
+                "dairy free",
+                "pescatarian"
+            ],
+            "occasions": [],
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Pour 1 cup of coconut milk in a pot with 1 seasoning cube and allow to boil for a minute.",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "seasoning cube",
+                                    "localizedName": "seasoning cube",
+                                    "image": "stock-cube.jpg"
+                                },
+                                {
+                                    "id": 12118,
+                                    "name": "coconut milk",
+                                    "localizedName": "coconut milk",
+                                    "image": "coconut-milk.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404752,
+                                    "name": "pot",
+                                    "localizedName": "pot",
+                                    "image": "stock-pot.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Pour in your rice and peas in the boiling coconut milk and pour 2 cups of water and leave to boil till the rice and peas are soft on low heat.In a separate pot, season and bring the mackerel to boil in the rest of the coconut milk, curry powder and some water.Toss in the chopped onion, scotch bonnet peppers and garlic and allow to simmer on medium heat.Once the fish is cooked, add the corn starch to thicken the sauce and allow to simmer for 4 minutes on low heat.",
+                            "ingredients": [
+                                {
+                                    "id": 12118,
+                                    "name": "coconut milk",
+                                    "localizedName": "coconut milk",
+                                    "image": "coconut-milk.png"
+                                },
+                                {
+                                    "id": 2015,
+                                    "name": "curry powder",
+                                    "localizedName": "curry powder",
+                                    "image": "curry-powder.jpg"
+                                },
+                                {
+                                    "id": 20027,
+                                    "name": "corn starch",
+                                    "localizedName": "corn starch",
+                                    "image": "white-powder.jpg"
+                                },
+                                {
+                                    "id": 15050,
+                                    "name": "mackerel",
+                                    "localizedName": "mackerel",
+                                    "image": "mackerel-fresh.jpg"
+                                },
+                                {
+                                    "id": 10111333,
+                                    "name": "peppers",
+                                    "localizedName": "peppers",
+                                    "image": "green-pepper.jpg"
+                                },
+                                {
+                                    "id": 11215,
+                                    "name": "garlic",
+                                    "localizedName": "garlic",
+                                    "image": "garlic.png"
+                                },
+                                {
+                                    "id": 10014052,
+                                    "name": "scotch whiskey",
+                                    "localizedName": "scotch whiskey",
+                                    "image": "whiskey-bottle.jpg"
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "sauce",
+                                    "localizedName": "sauce",
+                                    "image": ""
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                },
+                                {
+                                    "id": 10115261,
+                                    "name": "fish",
+                                    "localizedName": "fish",
+                                    "image": "fish-fillet.jpg"
+                                },
+                                {
+                                    "id": 11304,
+                                    "name": "peas",
+                                    "localizedName": "peas",
+                                    "image": "peas.jpg"
+                                },
+                                {
+                                    "id": 20444,
+                                    "name": "rice",
+                                    "localizedName": "rice",
+                                    "image": "uncooked-white-rice.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404752,
+                                    "name": "pot",
+                                    "localizedName": "pot",
+                                    "image": "stock-pot.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 4,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 3,
+                            "step": "Serve with the rice and peas",
+                            "ingredients": [
+                                {
+                                    "id": 11304,
+                                    "name": "peas",
+                                    "localizedName": "peas",
+                                    "image": "peas.jpg"
+                                },
+                                {
+                                    "id": 20444,
+                                    "name": "rice",
+                                    "localizedName": "rice",
+                                    "image": "uncooked-white-rice.png"
+                                }
+                            ],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "spoonacularSourceUrl": "https://spoonacular.com/rice-and-peas-with-coconut-curry-mackerel-716364"
+        },
+        {
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": true,
+            "dairyFree": false,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 13,
+            "gaps": "no",
+            "lowFodmap": false,
+            "aggregateLikes": 19,
+            "spoonacularScore": 92,
+            "healthScore": 48,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 354.96,
+            "id": 660290,
+            "title": "Slow Cooker Lamb Curry",
+            "readyInMinutes": 45,
+            "servings": 8,
+            "sourceUrl": "http://www.foodista.com/recipe/Z5MXNR2V/slow-cooker-lamb-curry",
+            "image": "https://spoonacular.com/recipeImages/660290-312x231.jpg",
+            "imageType": "jpg",
+            "summary": "The recipe Slow Cooker Lamb Curry is ready <b>in about 45 minutes</b> and is definitely a super <b>gluten free</b> option for lovers of Indian food. For <b>$3.57 per serving</b>, this recipe <b>covers 42%</b> of your daily requirements of vitamins and minerals. This recipe makes 8 servings with <b>568 calories</b>, <b>67g of protein</b>, and <b>24g of fat</b> each. Head to the store and pick up baking potatoes, rosemary, ginger, and a few other things to make it today. To use up the curry paste you could follow this main course with the <a href=\"https://spoonacular.com/recipes/chocolate-hazelnut-decadence-cake-pop-738246\">Chocolate Hazelnut Decadence Cake Pop</a> as a dessert. 19 people have made this recipe and would make it again. A couple people really liked this main course. All things considered, we decided this recipe <b>deserves a spoonacular score of 93%</b>. This score is spectacular. Try <a href=\"https://spoonacular.com/recipes/leg-of-lamb-for-the-slow-cooker-crock-pot-96966\">Leg of Lamb for the Slow Cooker / Crock Pot</a>, <a href=\"https://spoonacular.com/recipes/slow-cooker-lamb-shanks-484177\">Slow Cooker Lamb Shanks</a>, and <a href=\"https://spoonacular.com/recipes/slow-cooker-lamb-stroganoff-517174\">Slow Cooker Lamb Stroganoff</a> for similar recipes.",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [
+                "gluten free"
+            ],
+            "occasions": [],
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Pull out your slow cooker and add everything into the pot with the exception of the yogurt.Now turn on your pot, setting it on low for the next 4-6 hours or high for the next 3-5.When the time is up, open up your slow cooker, grab your yogurt and stir it into the curry.",
+                            "ingredients": [
+                                {
+                                    "id": 1116,
+                                    "name": "yogurt",
+                                    "localizedName": "yogurt",
+                                    "image": "plain-yogurt.jpg"
+                                },
+                                {
+                                    "id": 2015,
+                                    "name": "curry powder",
+                                    "localizedName": "curry powder",
+                                    "image": "curry-powder.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404718,
+                                    "name": "slow cooker",
+                                    "localizedName": "slow cooker",
+                                    "image": "slow-cooker.jpg"
+                                },
+                                {
+                                    "id": 404752,
+                                    "name": "pot",
+                                    "localizedName": "pot",
+                                    "image": "stock-pot.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 360,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 2,
+                            "step": "Serve over rice.",
+                            "ingredients": [
+                                {
+                                    "id": 20444,
+                                    "name": "rice",
+                                    "localizedName": "rice",
+                                    "image": "uncooked-white-rice.png"
+                                }
+                            ],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "spoonacularSourceUrl": "https://spoonacular.com/slow-cooker-lamb-curry-660290"
+        },
+        {
+            "vegetarian": true,
+            "vegan": true,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 4,
+            "gaps": "no",
+            "lowFodmap": true,
+            "aggregateLikes": 4,
+            "spoonacularScore": 92,
+            "healthScore": 60,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 51.94,
+            "id": 641122,
+            "title": "Curry Leaves Potato Chips",
+            "readyInMinutes": 45,
+            "servings": 3,
+            "sourceUrl": "https://www.foodista.com/recipe/S6M8SF2T/curry-leaves-potato-chips",
+            "image": "https://spoonacular.com/recipeImages/641122-312x231.jpg",
+            "imageType": "jpg",
+            "summary": "Curry Leaves Potato Chips could be just the <b>gluten free, dairy free, lacto ovo vegetarian, and fodmap friendly</b> recipe you've been looking for. This recipe serves 3 and costs 52 cents per serving. One serving contains <b>157 calories</b>, <b>4g of protein</b>, and <b>1g of fat</b>. This recipe from Foodista requires potatoes - remove skin, oil, curry leaves, and salt. Not a lot of people made this recipe, and 4 would say it hit the spot. From preparation to the plate, this recipe takes approximately <b>approximately 45 minutes</b>. This recipe is typical of Indian cuisine. With a spoonacular <b>score of 92%</b>, this dish is amazing. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/chicken-stir-fry-with-potato-cashews-and-curry-leaves-202216\">Chicken Stir Fry with Potato, Cashews, and Curry Leaves</a>, <a href=\"https://spoonacular.com/recipes/yam-leaves-stir-fried-sweet-potato-leaves-960798\">Yam Leaves, Stir-Fried Sweet Potato Leaves</a>, and <a href=\"https://spoonacular.com/recipes/curry-leaves-chutney-how-to-make-curry-leaves-chutney-487613\">curry leaves chutney , how to make curry leaves chutney</a>.",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [],
+            "diets": [
+                "gluten free",
+                "dairy free",
+                "lacto ovo vegetarian",
+                "fodmap friendly",
+                "vegan"
+            ],
+            "occasions": [],
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Wipe/pat dry potatoes.",
+                            "ingredients": [
+                                {
+                                    "id": 11352,
+                                    "name": "potato",
+                                    "localizedName": "potato",
+                                    "image": "potatoes-yukon-gold.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 2,
+                            "step": "Mix in chili powder and salt.",
+                            "ingredients": [
+                                {
+                                    "id": 2009,
+                                    "name": "chili powder",
+                                    "localizedName": "chili powder",
+                                    "image": "chili-powder.jpg"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "localizedName": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 3,
+                            "step": "Heat oil and fry in batches till crunchy and crispy.",
+                            "ingredients": [
+                                {
+                                    "id": 4582,
+                                    "name": "cooking oil",
+                                    "localizedName": "cooking oil",
+                                    "image": "vegetable-oil.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 4,
+                            "step": "Remove and keep aside.",
+                            "ingredients": [],
+                            "equipment": []
+                        },
+                        {
+                            "number": 5,
+                            "step": "In the same oil, fry curry leaves till crispy too.",
+                            "ingredients": [
+                                {
+                                    "id": 93604,
+                                    "name": "curry leaves",
+                                    "localizedName": "curry leaves",
+                                    "image": "curry-leaves.jpg"
+                                },
+                                {
+                                    "id": 4582,
+                                    "name": "cooking oil",
+                                    "localizedName": "cooking oil",
+                                    "image": "vegetable-oil.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 6,
+                            "step": "Scoop out and add over chips.",
+                            "ingredients": [
+                                {
+                                    "id": 11408,
+                                    "name": "french fries",
+                                    "localizedName": "french fries",
+                                    "image": "french-fries-isolated.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 7,
+                            "step": "Crush and toss the leaves with the chips.",
+                            "ingredients": [
+                                {
+                                    "id": 11408,
+                                    "name": "french fries",
+                                    "localizedName": "french fries",
+                                    "image": "french-fries-isolated.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "spoonacularSourceUrl": "https://spoonacular.com/curry-leaves-potato-chips-641122"
+        },
+        {
+            "vegetarian": true,
+            "vegan": false,
+            "glutenFree": true,
+            "dairyFree": false,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 6,
+            "gaps": "no",
+            "lowFodmap": false,
+            "aggregateLikes": 3,
+            "spoonacularScore": 91,
+            "healthScore": 86,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 164.25,
+            "id": 642468,
+            "title": "Ethiopian Lentil Curry",
+            "readyInMinutes": 75,
+            "servings": 6,
+            "sourceUrl": "http://www.foodista.com/recipe/VND4VYMV/ethiopian-lentil-curry",
+            "image": "https://spoonacular.com/recipeImages/642468-312x231.jpg",
+            "imageType": "jpg",
+            "summary": "The recipe Ethiopian Lentil Curry could satisfy your Indian craving in approximately <b>1 hour and 15 minutes</b>. For <b>$1.01 per serving</b>, you get a main course that serves 6. Watching your figure? This gluten free and vegetarian recipe has <b>268 calories</b>, <b>15g of protein</b>, and <b>6g of fat</b> per serving. 3 people have made this recipe and would make it again. A mixture of masala molida, cauliflower head, garlic cloves, and a handful of other ingredients are all it takes to make this recipe so flavorful. All things considered, we decided this recipe <b>deserves a spoonacular score of 88%</b>. This score is awesome. Similar recipes include <a href=\"https://spoonacular.com/recipes/spicy-ethiopian-red-lentil-stew-33758\">Spicy Ethiopian Red Lentil Stew</a>, <a href=\"https://spoonacular.com/recipes/ethiopian-s-mesir-wat-red-lentil-stew-with-ayib-552200\">Ethiopian s: Mesir Wat Red Lentil Stew with Ayib</a>, and <a href=\"https://spoonacular.com/recipes/red-lentil-curry-33804\">Red Lentil Curry</a>.",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [
+                "gluten free",
+                "lacto ovo vegetarian"
+            ],
+            "occasions": [],
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "In a large pot heat oil over medium heat.",
+                            "ingredients": [
+                                {
+                                    "id": 4582,
+                                    "name": "cooking oil",
+                                    "localizedName": "cooking oil",
+                                    "image": "vegetable-oil.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404752,
+                                    "name": "pot",
+                                    "localizedName": "pot",
+                                    "image": "stock-pot.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Add onions and saut until translucent.",
+                            "ingredients": [
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 3,
+                            "step": "Add minced garlic and continue to saut for another minute.",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "minced garlic",
+                                    "localizedName": "minced garlic",
+                                    "image": "garlic.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 4,
+                            "step": "Combine cauliflower, peas and lentils in the pot, sprinkle with amchar massala and massala molida and saut for 5 minutes.",
+                            "ingredients": [
+                                {
+                                    "id": 11135,
+                                    "name": "cauliflower",
+                                    "localizedName": "cauliflower",
+                                    "image": "cauliflower.jpg"
+                                },
+                                {
+                                    "id": 10316069,
+                                    "name": "lentils",
+                                    "localizedName": "lentils",
+                                    "image": "lentils-brown.jpg"
+                                },
+                                {
+                                    "id": 11304,
+                                    "name": "peas",
+                                    "localizedName": "peas",
+                                    "image": "peas.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404752,
+                                    "name": "pot",
+                                    "localizedName": "pot",
+                                    "image": "stock-pot.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 5,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 5,
+                            "step": "Pour crushed tomatoes and tomato paste into the pot and stir to combine.",
+                            "ingredients": [
+                                {
+                                    "id": 11693,
+                                    "name": "crushed tomatoes",
+                                    "localizedName": "crushed tomatoes",
+                                    "image": "tomatoes-canned.png"
+                                },
+                                {
+                                    "id": 11887,
+                                    "name": "tomato paste",
+                                    "localizedName": "tomato paste",
+                                    "image": "tomato-paste.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404752,
+                                    "name": "pot",
+                                    "localizedName": "pot",
+                                    "image": "stock-pot.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "step": "Add about two cups of water and bring curry to a boil.Reduce heat, cover, and simmer on low until lentils are tender; about an hour.",
+                            "ingredients": [
+                                {
+                                    "id": 10316069,
+                                    "name": "lentils",
+                                    "localizedName": "lentils",
+                                    "image": "lentils-brown.jpg"
+                                },
+                                {
+                                    "id": 2015,
+                                    "name": "curry powder",
+                                    "localizedName": "curry powder",
+                                    "image": "curry-powder.jpg"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 7,
+                            "step": "Mix in plain yogurt and serve immediately.",
+                            "ingredients": [
+                                {
+                                    "id": 1001116,
+                                    "name": "plain yogurt",
+                                    "localizedName": "plain yogurt",
+                                    "image": "plain-yogurt.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "spoonacularSourceUrl": "https://spoonacular.com/ethiopian-lentil-curry-642468"
+        },
+        {
+            "vegetarian": true,
+            "vegan": true,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 10,
+            "gaps": "no",
+            "lowFodmap": false,
+            "aggregateLikes": 2,
+            "spoonacularScore": 91,
+            "healthScore": 100,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 337.26,
+            "id": 658482,
+            "title": "Roasted Acorn Squash Stuffed with spicy Biryani (Veg/vegan)",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/CVYJ4256/roasted-acorn-squash-stuffed-wspicy-biryani-vegvegan",
+            "image": "https://spoonacular.com/recipeImages/658482-312x231.jpg",
+            "imageType": "jpg",
+            "summary": "If you have around <b>around 45 minutes</b> to spend in the kitchen, Roasted Acorn Squash Stuffed W/spicy Biryani (Veg/vegan) might be an excellent <b>gluten free, dairy free, lacto ovo vegetarian, and vegan</b> recipe to try. One serving contains <b>476 calories</b>, <b>10g of protein</b>, and <b>13g of fat</b>. For <b>$3.37 per serving</b>, you get a side dish that serves 4. 2 people were glad they tried this recipe. A mixture of saffron, cashew nuts- a bit, peppers, and a handful of other ingredients are all it takes to make this recipe so tasty. This recipe is typical of Indian cuisine. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 92%</b>. This score is awesome. Users who liked this recipe also liked <a href=\"https://spoonacular.com/recipes/spicy-stuffed-acorn-squash-513040\">Spicy Stuffed Acorn Squash</a>, <a href=\"https://spoonacular.com/recipes/veg-biryani-how-to-make-kerala-style-veg-biryani-486692\">veg biryani , how to make kerala style veg biryani</a>, and <a href=\"https://spoonacular.com/recipes/spicy-cod-fillet-with-coconut-squash-sauce-over-roasted-acorn-squash-227025\">Spicy Cod Fillet with Coconut-Squash Sauce Over Roasted Acorn Squash</a>.",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [
+                "side dish"
+            ],
+            "diets": [
+                "gluten free",
+                "dairy free",
+                "lacto ovo vegetarian",
+                "vegan"
+            ],
+            "occasions": [],
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Preheat the oven to 400 degrees. On a baking sheet place the squash halves, spray with PAM and sprinkle with 1-2 tbsp garam masala.",
+                            "ingredients": [
+                                {
+                                    "id": 93663,
+                                    "name": "garam masala",
+                                    "localizedName": "garam masala",
+                                    "image": "garam-masala.jpg"
+                                },
+                                {
+                                    "id": 10011485,
+                                    "name": "squash",
+                                    "localizedName": "squash",
+                                    "image": "butternut-squash.jpg"
+                                },
+                                {
+                                    "id": 4679,
+                                    "name": "cooking spray",
+                                    "localizedName": "cooking spray",
+                                    "image": "cooking-spray.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404727,
+                                    "name": "baking sheet",
+                                    "localizedName": "baking sheet",
+                                    "image": "baking-sheet.jpg"
+                                },
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "oven.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Place in the oven and BROIL till tender and charred- about 10-15 minutes.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "oven.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 15,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 3,
+                            "step": "While the squashes are roasting, in a large skillet, spray with PAM and add vegetable oil and set over medium heat.",
+                            "ingredients": [
+                                {
+                                    "id": 4669,
+                                    "name": "vegetable oil",
+                                    "localizedName": "vegetable oil",
+                                    "image": "vegetable-oil.jpg"
+                                },
+                                {
+                                    "id": 4679,
+                                    "name": "cooking spray",
+                                    "localizedName": "cooking spray",
+                                    "image": "cooking-spray.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "pan.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "step": "Add the cashews and saute until fragrant and slightly darkened.",
+                            "ingredients": [
+                                {
+                                    "id": 12087,
+                                    "name": "cashews",
+                                    "localizedName": "cashews",
+                                    "image": "cashews.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 5,
+                            "step": "Add onions and peppers, sprinkle with black pepper and saute until soft, about 5-7 minutes. Once the onions and peppers are soft, but now brown, add the soaked basmati rice (make sure not to get any water in it!).",
+                            "ingredients": [
+                                {
+                                    "id": 10020444,
+                                    "name": "basmati rice",
+                                    "localizedName": "basmati rice",
+                                    "image": "rice-white-long-grain-or-basmatii-cooked.jpg"
+                                },
+                                {
+                                    "id": 1002030,
+                                    "name": "black pepper",
+                                    "localizedName": "black pepper",
+                                    "image": "pepper.jpg"
+                                },
+                                {
+                                    "id": 10111333,
+                                    "name": "peppers",
+                                    "localizedName": "peppers",
+                                    "image": "green-pepper.jpg"
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 7,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 6,
+                            "step": "Saute for 5-7 minutes. You want to toast the the rice.",
+                            "ingredients": [
+                                {
+                                    "id": 18070,
+                                    "name": "toast",
+                                    "localizedName": "toast",
+                                    "image": "toast"
+                                },
+                                {
+                                    "id": 20444,
+                                    "name": "rice",
+                                    "localizedName": "rice",
+                                    "image": "uncooked-white-rice.png"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 7,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 7,
+                            "step": "Remove the squash from the oven and cool for a few minutes before handling. Score the squash into small cubes, WITHOUT cutting through the skin. Scoop the cubes out into a bowl and set aside. Keep the shell aside, DONT throw out!",
+                            "ingredients": [
+                                {
+                                    "id": 10011485,
+                                    "name": "squash",
+                                    "localizedName": "squash",
+                                    "image": "butternut-squash.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "bowl.jpg"
+                                },
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "oven.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 8,
+                            "step": "Once the rice is toasted add 1 cup of water, pinch of saffron, cover and cook on medium-low heat, about 15 minutes. You want the rice to be cooked thru, not mushy so dont mix it around too much! Once the rice is cooked, add the cubed squash, tossing gently (you dont want the squash to break and mush around the rice).",
+                            "ingredients": [
+                                {
+                                    "id": 2037,
+                                    "name": "saffron",
+                                    "localizedName": "saffron",
+                                    "image": "saffron.jpg"
+                                },
+                                {
+                                    "id": 10011485,
+                                    "name": "squash",
+                                    "localizedName": "squash",
+                                    "image": "butternut-squash.jpg"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                },
+                                {
+                                    "id": 20444,
+                                    "name": "rice",
+                                    "localizedName": "rice",
+                                    "image": "uncooked-white-rice.png"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 15,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 9,
+                            "step": "Add the Biryani paste and toss to coat.",
+                            "ingredients": [],
+                            "equipment": []
+                        },
+                        {
+                            "number": 10,
+                            "step": "Mix in 3/4 of the chopped cilantro. Taste for salt and biryani flavor- it should be strong, spicy and aromatic.",
+                            "ingredients": [
+                                {
+                                    "id": 11165,
+                                    "name": "cilantro",
+                                    "localizedName": "cilantro",
+                                    "image": "cilantro.png"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "localizedName": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 11,
+                            "step": "In a small skillet, spray with PAM and set over medium-high heat.",
+                            "ingredients": [
+                                {
+                                    "id": 4679,
+                                    "name": "cooking spray",
+                                    "localizedName": "cooking spray",
+                                    "image": "cooking-spray.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "pan.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 12,
+                            "step": "Add onion slices, and saute without breaking up the circles. Cook until brown-ish about 4-5 minutes. Set aside.",
+                            "ingredients": [
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 5,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 13,
+                            "step": "Fill each squash bowl with rice, just coming over the top. Top each one with an onion round and sprinkle with remaining chopped cilantro.",
+                            "ingredients": [
+                                {
+                                    "id": 11165,
+                                    "name": "cilantro",
+                                    "localizedName": "cilantro",
+                                    "image": "cilantro.png"
+                                },
+                                {
+                                    "id": 10011485,
+                                    "name": "squash",
+                                    "localizedName": "squash",
+                                    "image": "butternut-squash.jpg"
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                },
+                                {
+                                    "id": 20444,
+                                    "name": "rice",
+                                    "localizedName": "rice",
+                                    "image": "uncooked-white-rice.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "bowl.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 14,
+                            "step": "Serve with yogurt or raita.",
+                            "ingredients": [
+                                {
+                                    "id": 1116,
+                                    "name": "yogurt",
+                                    "localizedName": "yogurt",
+                                    "image": "plain-yogurt.jpg"
+                                },
+                                {
+                                    "id": 1011116,
+                                    "name": "raita",
+                                    "localizedName": "raita",
+                                    "image": "raita-or-tzaziki.png"
+                                }
+                            ],
+                            "equipment": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Biryani paste",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "In a medium skillet, spray with pam, add oil and set over medium-high flame.",
+                            "ingredients": [
+                                {
+                                    "id": 4582,
+                                    "name": "cooking oil",
+                                    "localizedName": "cooking oil",
+                                    "image": "vegetable-oil.jpg"
+                                },
+                                {
+                                    "id": 4679,
+                                    "name": "cooking spray",
+                                    "localizedName": "cooking spray",
+                                    "image": "cooking-spray.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "pan.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Add onions and tomatoes, saute until golden-brown about 4-5 minutes.",
+                            "ingredients": [
+                                {
+                                    "id": 11529,
+                                    "name": "tomato",
+                                    "localizedName": "tomato",
+                                    "image": "tomato.png"
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 5,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 3,
+                            "step": "Add garlic, ginger, chili powder and cilantro.",
+                            "ingredients": [
+                                {
+                                    "id": 2009,
+                                    "name": "chili powder",
+                                    "localizedName": "chili powder",
+                                    "image": "chili-powder.jpg"
+                                },
+                                {
+                                    "id": 11165,
+                                    "name": "cilantro",
+                                    "localizedName": "cilantro",
+                                    "image": "cilantro.png"
+                                },
+                                {
+                                    "id": 11215,
+                                    "name": "garlic",
+                                    "localizedName": "garlic",
+                                    "image": "garlic.png"
+                                },
+                                {
+                                    "id": 11216,
+                                    "name": "ginger",
+                                    "localizedName": "ginger",
+                                    "image": "ginger.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 4,
+                            "step": "Saute until vegetables are soft and fragrant about 4-5 minutes.",
+                            "ingredients": [
+                                {
+                                    "id": 11583,
+                                    "name": "vegetable",
+                                    "localizedName": "vegetable",
+                                    "image": "mixed-vegetables.png"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 5,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 5,
+                            "step": "Add the biryani paste and mix well, making sure all the veggies are coated.",
+                            "ingredients": [],
+                            "equipment": []
+                        },
+                        {
+                            "number": 6,
+                            "step": "Remove from the heat and let cool (10-15 minutes).",
+                            "ingredients": [],
+                            "equipment": [],
+                            "length": {
+                                "number": 15,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 7,
+                            "step": "In a grinder/food processor, add the biryani mixture and grind until smooth (slightly chunky is ok). Store in an air tight container. Can be kept in the fridge for 1-2 weeks, or in the freezer- for a while!",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404771,
+                                    "name": "food processor",
+                                    "localizedName": "food processor",
+                                    "image": "food-processor.png"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "spoonacularSourceUrl": "https://spoonacular.com/roasted-acorn-squash-stuffed-with-spicy-biryani-veg-vegan-658482"
+        },
+        {
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": true,
+            "dairyFree": false,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 20,
+            "gaps": "no",
+            "lowFodmap": false,
+            "aggregateLikes": 1,
+            "spoonacularScore": 89,
+            "healthScore": 80,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 574.06,
+            "id": 641128,
+            "title": "Curry Mussels",
+            "readyInMinutes": 45,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/4ZL4SYFD/curry-mussels",
+            "image": "https://spoonacular.com/recipeImages/641128-312x231.jpg",
+            "imageType": "jpg",
+            "summary": "Curry Mussels takes roughly <b>roughly 45 minutes</b> from beginning to end. One portion of this dish contains roughly <b>63g of protein</b>, <b>34g of fat</b>, and a total of <b>742 calories</b>. This recipe serves 2 and costs $5.74 per serving. 1 person has made this recipe and would make it again. This recipe from Foodista requires mussels, onion, tablespoon olive oil, and tablespoon parsley. It works well as a hor d'oeuvre. It is a good option if you're following a <b>gluten free, primal, and pescatarian</b> diet. Not a lot of people really liked this Indian dish. With a spoonacular <b>score of 89%</b>, this dish is awesome. Similar recipes are <a href=\"https://spoonacular.com/recipes/coconut-curry-mussels-54272\">Coconut Curry Mussels</a>, <a href=\"https://spoonacular.com/recipes/coconut-curry-mussels-568548\">Coconut Curry Mussels</a>, and <a href=\"https://spoonacular.com/recipes/coconut-curry-mussels-337885\">Coconut-Curry Mussels</a>.",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [
+                "antipasti",
+                "lunch",
+                "main course",
+                "starter",
+                "snack",
+                "appetizer",
+                "main dish",
+                "antipasto",
+                "hor d'oeuvre",
+                "dinner"
+            ],
+            "diets": [
+                "gluten free",
+                "primal",
+                "pescatarian"
+            ],
+            "occasions": [],
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "In a big pot or cocotte, put in olive oil and onion. Fry the onions until soft but not brown.",
+                            "ingredients": [
+                                {
+                                    "id": 4053,
+                                    "name": "olive oil",
+                                    "localizedName": "olive oil",
+                                    "image": "olive-oil.jpg"
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404752,
+                                    "name": "pot",
+                                    "localizedName": "pot",
+                                    "image": "stock-pot.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Then, put in white wine, parseley, salt, pepper, and cayenne pepper.",
+                            "ingredients": [
+                                {
+                                    "id": 2031,
+                                    "name": "cayenne pepper",
+                                    "localizedName": "cayenne pepper",
+                                    "image": "chili-powder.jpg"
+                                },
+                                {
+                                    "id": 14106,
+                                    "name": "white wine",
+                                    "localizedName": "white wine",
+                                    "image": "white-wine.jpg"
+                                },
+                                {
+                                    "id": 1002030,
+                                    "name": "pepper",
+                                    "localizedName": "pepper",
+                                    "image": "pepper.jpg"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "localizedName": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 3,
+                            "step": "Stir for a few minutes before putting the mussels in the pot.",
+                            "ingredients": [
+                                {
+                                    "id": 15164,
+                                    "name": "mussels",
+                                    "localizedName": "mussels",
+                                    "image": "mussels.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404752,
+                                    "name": "pot",
+                                    "localizedName": "pot",
+                                    "image": "stock-pot.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "step": "Put the lid on and cook the mussels for about 2-3 minutes, shaking the pan occasionally.",
+                            "ingredients": [
+                                {
+                                    "id": 15164,
+                                    "name": "mussels",
+                                    "localizedName": "mussels",
+                                    "image": "mussels.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "pan.png"
+                                }
+                            ],
+                            "length": {
+                                "number": 3,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 5,
+                            "step": "Use tongs to lift out the mussels as they open, putting them into a warm dish. Throw away any mussels that havent opened after 3 minutes.",
+                            "ingredients": [
+                                {
+                                    "id": 15164,
+                                    "name": "mussels",
+                                    "localizedName": "mussels",
+                                    "image": "mussels.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404641,
+                                    "name": "tongs",
+                                    "localizedName": "tongs",
+                                    "image": "tongs.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 3,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 6,
+                            "step": "Strain the liquid through a fine sieve into a clean saucepan, leaving behind any grit or sand.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404669,
+                                    "name": "sauce pan",
+                                    "localizedName": "sauce pan",
+                                    "image": "sauce-pan.jpg"
+                                },
+                                {
+                                    "id": 405600,
+                                    "name": "sieve",
+                                    "localizedName": "sieve",
+                                    "image": "strainer.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 7,
+                            "step": "Bring to the boil and  boil for 2 minutes.",
+                            "ingredients": [],
+                            "equipment": [],
+                            "length": {
+                                "number": 2,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 8,
+                            "step": "Add the curry powder and crme fraiche, stir. Reheat the sauce without boiling and let the sauce thicken.",
+                            "ingredients": [
+                                {
+                                    "id": 2015,
+                                    "name": "curry powder",
+                                    "localizedName": "curry powder",
+                                    "image": "curry-powder.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "sauce",
+                                    "localizedName": "sauce",
+                                    "image": ""
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 9,
+                            "step": "Serve the mussels in individual bowls with the sauce poured over.",
+                            "ingredients": [
+                                {
+                                    "id": 15164,
+                                    "name": "mussels",
+                                    "localizedName": "mussels",
+                                    "image": "mussels.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "sauce",
+                                    "localizedName": "sauce",
+                                    "image": ""
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "bowl.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 10,
+                            "step": "Sprinkle with some parsley.",
+                            "ingredients": [
+                                {
+                                    "id": 11297,
+                                    "name": "parsley",
+                                    "localizedName": "parsley",
+                                    "image": "parsley.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "spoonacularSourceUrl": "https://spoonacular.com/curry-mussels-641128"
+        },
+        {
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 11,
+            "gaps": "no",
+            "lowFodmap": false,
+            "aggregateLikes": 4,
+            "spoonacularScore": 87,
+            "healthScore": 51,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 385.56,
+            "id": 633088,
+            "title": "Authentic Jamaican Curry Chicken",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "http://www.foodista.com/recipe/VVMBG4PD/authentic-jamaican-curry-chicken",
+            "image": "https://spoonacular.com/recipeImages/633088-312x231.jpg",
+            "imageType": "jpg",
+            "summary": "The recipe Authentic Jamaican Curry Chicken could satisfy your Indian craving in approximately <b>45 minutes</b>. This recipe makes 4 servings with <b>545 calories</b>, <b>69g of protein</b>, and <b>19g of fat</b> each. For <b>$3.82 per serving</b>, this recipe <b>covers 44%</b> of your daily requirements of vitamins and minerals. It is a good option if you're following a <b>caveman, gluten free, dairy free, and primal</b> diet. Not a lot of people really liked this main course. This recipe is liked by 4 foodies and cooks. If you have sweet potatoes, coconut oil, pepper pepper, and a few other ingredients on hand, you can make it. To use up the coconut oil you could follow this main course with the <a href=\"https://spoonacular.com/recipes/dark-chocolate-raspberry-coconut-oatmeal-cookies-made-with-coconut-oil-809865\">Dark Chocolate Raspberry Coconut Oatmeal Cookies (made with coconut oil!)</a> as a dessert. All things considered, we decided this recipe <b>deserves a spoonacular score of 87%</b>. This score is great. Try <a href=\"https://spoonacular.com/recipes/authentic-jamaican-brown-stew-chicken-107028\">Authentic Jamaican Brown Stew Chicken</a>, <a href=\"https://spoonacular.com/recipes/authentic-jamaican-pepper-shrimp-633079\">Authentic Jamaican Pepper Shrimp</a>, and <a href=\"https://spoonacular.com/recipes/jamaican-chicken-curry-100938\">Jamaican Chicken Curry</a> for similar recipes.",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [
+                "gluten free",
+                "dairy free"
+            ],
+            "occasions": [],
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Season the chicken with all of the ingredients except for the potatoes and water and marinate up to 2 hours or overnight in the fridge.",
+                            "ingredients": [
+                                {
+                                    "id": 11352,
+                                    "name": "potato",
+                                    "localizedName": "potato",
+                                    "image": "potatoes-yukon-gold.png"
+                                },
+                                {
+                                    "id": 5006,
+                                    "name": "whole chicken",
+                                    "localizedName": "whole chicken",
+                                    "image": "whole-chicken.jpg"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 120,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 2,
+                            "step": "Add the oil to a Dutch oven and on high heat, fry the only the chicken pieces until it is brown and seared on each side for about 10 minutes.After the meat is nice and brown on both sides, add the remaining vegetable marinade, scotch bonnet pepper and water to the pot, cover and bring to a boil.",
+                            "ingredients": [
+                                {
+                                    "id": 10011819,
+                                    "name": "scotch bonnet chili",
+                                    "localizedName": "scotch bonnet chili",
+                                    "image": "scotch-bonnet-chile.jpg"
+                                },
+                                {
+                                    "id": 1005006,
+                                    "name": "chicken pieces",
+                                    "localizedName": "chicken pieces",
+                                    "image": "chicken-parts.jpg"
+                                },
+                                {
+                                    "id": 11583,
+                                    "name": "vegetable",
+                                    "localizedName": "vegetable",
+                                    "image": "mixed-vegetables.png"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "marinade",
+                                    "localizedName": "marinade",
+                                    "image": "seasoning.png"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                },
+                                {
+                                    "id": 1065062,
+                                    "name": "meat",
+                                    "localizedName": "meat",
+                                    "image": "whole-chicken.jpg"
+                                },
+                                {
+                                    "id": 4582,
+                                    "name": "cooking oil",
+                                    "localizedName": "cooking oil",
+                                    "image": "vegetable-oil.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404667,
+                                    "name": "dutch oven",
+                                    "localizedName": "dutch oven",
+                                    "image": "dutch-oven.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 10,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 3,
+                            "step": "Add the potatoes and lower to a simmer and stew it for about 1 hour until it has a thick consistency.",
+                            "ingredients": [
+                                {
+                                    "id": 11352,
+                                    "name": "potato",
+                                    "localizedName": "potato",
+                                    "image": "potatoes-yukon-gold.png"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "stew",
+                                    "localizedName": "stew",
+                                    "image": ""
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 60,
+                                "unit": "minutes"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "spoonacularSourceUrl": "https://spoonacular.com/authentic-jamaican-curry-chicken-633088"
+        },
+        {
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": true,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 15,
+            "gaps": "no",
+            "lowFodmap": false,
+            "aggregateLikes": 1,
+            "spoonacularScore": 86,
+            "healthScore": 64,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 279.78,
+            "id": 641111,
+            "title": "Curry Beef Over Rice Noodles",
+            "readyInMinutes": 45,
+            "servings": 2,
+            "sourceUrl": "http://www.foodista.com/recipe/PXR8MYRD/curry-beef-over-rice-noodles",
+            "image": "https://spoonacular.com/recipeImages/641111-312x231.jpg",
+            "imageType": "jpg",
+            "summary": "Curry Beef Over Rice Noodles might be just the main course you are searching for. This recipe serves 2 and costs $2.74 per serving. One serving contains <b>652 calories</b>, <b>61g of protein</b>, and <b>20g of fat</b>. 1 person were impressed by this recipe. It is a good option if you're following a <b>dairy free</b> diet. Head to the store and pick up onions, natural roasted peanuts, sambal oelek, and a few other things to make it today. To use up the fresh ginger you could follow this main course with the <a href=\"https://spoonacular.com/recipes/fresh-ginger-cookies-624884\">Fresh Ginger Cookies</a> as a dessert. This recipe is typical of Indian cuisine. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 87%</b>. This score is awesome. Try <a href=\"https://spoonacular.com/recipes/burmese-beef-curry-with-vermicelli-rice-noodles-598957\">Burmese Beef Curry with Vermicelli Rice Noodles</a>, <a href=\"https://spoonacular.com/recipes/crockpot-beef-curry-with-noodles-506865\">Crockpot Beef Curry with Noodles</a>, and <a href=\"https://spoonacular.com/recipes/thai-style-red-curry-beef-noodles-248937\">Thai-Style Red Curry Beef Noodles</a> for similar recipes.",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [
+                "dairy free"
+            ],
+            "occasions": [],
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "In nonstick skillet, add oil and saut beef over medium-high heat for 3-4 min.",
+                            "ingredients": [
+                                {
+                                    "id": 23572,
+                                    "name": "beef",
+                                    "localizedName": "beef",
+                                    "image": "beef-cubes-raw.png"
+                                },
+                                {
+                                    "id": 4582,
+                                    "name": "cooking oil",
+                                    "localizedName": "cooking oil",
+                                    "image": "vegetable-oil.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "pan.png"
+                                }
+                            ],
+                            "length": {
+                                "number": 4,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 2,
+                            "step": "Add red onions, garlic, saut for about 4 minutes.",
+                            "ingredients": [
+                                {
+                                    "id": 10011282,
+                                    "name": "red onion",
+                                    "localizedName": "red onion",
+                                    "image": "red-onion.png"
+                                },
+                                {
+                                    "id": 11215,
+                                    "name": "garlic",
+                                    "localizedName": "garlic",
+                                    "image": "garlic.png"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 4,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 3,
+                            "step": "Add fresh ginger, sambal oelek, curry powder; cook, stirring, until fragrant, about 45 seconds.",
+                            "ingredients": [
+                                {
+                                    "id": 2015,
+                                    "name": "curry powder",
+                                    "localizedName": "curry powder",
+                                    "image": "curry-powder.jpg"
+                                },
+                                {
+                                    "id": 10211216,
+                                    "name": "fresh ginger",
+                                    "localizedName": "fresh ginger",
+                                    "image": "ginger.png"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "sambal oelek",
+                                    "localizedName": "sambal oelek",
+                                    "image": "chili-paste.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 4,
+                            "step": "Add soy sauce, lime juice and peanuts.  Saut another 30 seconds.",
+                            "ingredients": [
+                                {
+                                    "id": 9160,
+                                    "name": "lime juice",
+                                    "localizedName": "lime juice",
+                                    "image": "lime-juice.png"
+                                },
+                                {
+                                    "id": 16124,
+                                    "name": "soy sauce",
+                                    "localizedName": "soy sauce",
+                                    "image": "soy-sauce.jpg"
+                                },
+                                {
+                                    "id": 16091,
+                                    "name": "peanuts",
+                                    "localizedName": "peanuts",
+                                    "image": "peanuts.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 5,
+                            "step": "Server over rice noodles.",
+                            "ingredients": [
+                                {
+                                    "id": 20133,
+                                    "name": "rice noodles",
+                                    "localizedName": "rice noodles",
+                                    "image": "dried-rice-noodles.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "spoonacularSourceUrl": "https://spoonacular.com/curry-beef-over-rice-noodles-641111"
+        }
+    ],
+    "offset": 0,
+    "number": 10,
+    "totalResults": 113
+}
