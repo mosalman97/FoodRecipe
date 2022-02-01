@@ -16,15 +16,24 @@
     cursor: pointer;
 }
 .head{
-  display: flex;
+  /* display: flex; */
   
 }
 .head_image{
-  width:300px;
+  width:400px;
   height:300px;
   border-radius:20px;
-  align-items:center;
+  margin:20px 0px 0px 500px;
+  border:2px solid grey;
 }
-
+.head h3{
+    font-weight:bold;
+    width:50%;
+    margin:0 auto;
+    font-style:italic;
+}
+ p{
+   
+}
 
 

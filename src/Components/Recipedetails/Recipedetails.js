@@ -26,6 +26,7 @@ export default function Recipedetails(props) {
            <img className='head_image' src={Recipeinfo.image} alt=''/>
            <h3>{Recipeinfo.title}</h3>
          </div>
+         <p dangerouslySetInnerHTML={{__html:Recipeinfo.summary}}></p>
       </div>
   )
 }
