@@ -24,7 +24,7 @@ export default function Recipedetails(props) {
          <Link to="/Home" ><div className='close'>X</div></Link>
          <div className='head'>
            <img className='head_image' src={Recipeinfo.image} alt=''/>
-           <span>{Recipeinfo.title}</span>
+           <h3>{Recipeinfo.title}</h3>
          </div>
       </div>
   )
