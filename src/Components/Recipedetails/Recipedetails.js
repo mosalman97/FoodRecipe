@@ -1,10 +1,10 @@
 import React,{useEffect, useState} from 'react';
 import "./Recipedetails.css"
 import { Link,useParams } from 'react-router-dom';
-// import sample from "../../../src/sample.Json";
+import Ingredients from './Ingredients';
+
 export default function Recipedetails(props) {
   const[Recipeinfo,setRecipeinfo] = useState([])
-  // const[details,setdetails] = useState({})
   const Api_Key =  "33743a6aa75243a9808c4a5e8f7cadb8";
   let {recipeID} = useParams()
 
@@ -27,6 +27,7 @@ export default function Recipedetails(props) {
            <h3>{Recipeinfo.title}</h3>
          </div>
          <p dangerouslySetInnerHTML={{__html:Recipeinfo.summary}}></p>
+         <Ingredients ingreidents={Recipeinfo.extendedIngredients} />
       </div>
   )
 }

@@ -23,17 +23,16 @@
   width:400px;
   height:300px;
   border-radius:20px;
-  margin:20px 0px 0px 500px;
+  margin:20px 0px 0px 20px;
   border:2px solid grey;
 }
 .head h3{
     font-weight:bold;
-    width:50%;
-    margin:0 auto;
     font-style:italic;
+    color:blue;
 }
  p{
-   
+   font-size:15px;
 }
 
 
