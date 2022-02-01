@@ -3,6 +3,7 @@ import "./Recipedetails.css"
 import { Link,useParams } from 'react-router-dom';
 
 
+
 export default function Recipedetails(props) {
   const[Recipeinfo,setRecipeinfo] = useState([])
   const Api_Key =  "33743a6aa75243a9808c4a5e8f7cadb8";
@@ -28,8 +29,9 @@ export default function Recipedetails(props) {
            <h3>{Recipeinfo.title}</h3>
          </div>
          <p dangerouslySetInnerHTML={{__html:Recipeinfo.summary}}></p>
-         <div className='diet-details'>
-            
+         <div className='instruction'>
+            <h3>Instructions</h3>
+            <p>{Recipeinfo.instructions}</p>
          </div>
       </div>
   )
