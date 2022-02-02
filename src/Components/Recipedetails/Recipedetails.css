@@ -26,13 +26,26 @@
   margin:20px 0px 0px 20px;
   border:2px solid grey;
 }
-.head h3{
+.head h2{
     font-weight:bold;
     font-style:italic;
-    color:blue;
+    color:darkcyan;
+    margin-left:30px
 }
- p{
-   font-size:15px;
+h3{
+  margin-left:30px;
+  border-bottom:1px solid black;
+  display: inline-block;
 }
+ p.sum{
+    font-size: 15px;
+    margin: 0 auto;
+    width: 90%;
+}
+p.instr{
+  margin:0 auto;
+  width:90%;
+}
+
 
 

@@ -26,12 +26,12 @@ export default function Recipedetails(props) {
          <Link to="/Home" ><div className='close'>X</div></Link>
          <div className='head'>
            <img className='head_image' src={Recipeinfo.image} alt=''/>
-           <h3>{Recipeinfo.title}</h3>
+           <h2>{Recipeinfo.title}</h2>
          </div>
-         <p dangerouslySetInnerHTML={{__html:Recipeinfo.summary}}></p>
+         <p className='sum' dangerouslySetInnerHTML={{__html:Recipeinfo.summary}}></p>
          <div className='instruction'>
             <h3>Instructions</h3>
-            <p>{Recipeinfo.instructions}</p>
+            <p className='instr' dangerouslySetInnerHTML={{__html:Recipeinfo.instructions}}></p>
          </div>
       </div>
   )
