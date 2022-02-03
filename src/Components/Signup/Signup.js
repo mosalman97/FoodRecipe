@@ -4,6 +4,7 @@ import "./Signup.css";
 function Signup() {
     const[username,setusername] = useState("");
     const[email,setEmail] = useState("");
+    const[password,setPassword] = useState("");
     return (
         <div className="Container">
             <h1>Food Recipes</h1>
@@ -21,7 +22,7 @@ function Signup() {
                         type="email"
                         onChange={(e)=>setEmail(e.target.value)}
                         value={email}
-                        placeholder="Username"
+                        placeholder="Email"
                     />
                 </div>
                 <div className="text_field">

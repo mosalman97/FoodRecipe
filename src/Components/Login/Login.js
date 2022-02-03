@@ -1,5 +1,7 @@
 import React,{useState} from "react"
 import "./Login.css"
+import {Link} from "react-router-dom";
+
 
 
 let Login = ()=>{
@@ -27,7 +29,10 @@ let Login = ()=>{
                <div className="text_field">
                   <input type="password"  onChange={(e)=>setPassword(e.target.value)} value={password} placeholder="Password" />
                </div>
-               <input className="button" type="submit"  value="Log In" />
+               <input className="button" type="submit"  value="LogIn"  />
+                <Link  to="/Signup">
+                   <span>Create New Account</span>
+                </Link>
             </form>
         </div>
     )

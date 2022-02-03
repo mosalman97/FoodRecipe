@@ -1,0 +1,49 @@
+body{
+    margin:0;
+    padding:0;
+    background:lightgrey
+}
+.Container{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    width:400px;
+    background-color:white;
+    border-radius:10px;
+
+}
+.Container h1{
+    text-align: center;
+    padding:0 0 10px 0;
+    border-bottom:1px solid silver;
+}
+.Container form{
+   padding:0 40px;
+   box-sizing:border-box;
+}
+form .text_field{
+    position: relative;
+    border-bottom:2px solid #adadad;
+    margin:30px 0;
+
+}
+.text_field input{
+    width:100%;
+    padding:0 5px;
+    height:40px;
+    font-size: 16px;
+    border: none;
+    outline:none;
+}
+.Container .button{
+    width:100%;
+    height:50px;
+    border-radius:25px;
+    margin-bottom:20px;
+    font-size:20px;
+    font-weight:bold;
+    cursor: pointer;
+    outline:none;
+
+}
