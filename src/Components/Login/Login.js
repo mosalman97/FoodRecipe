@@ -29,8 +29,8 @@ let Login = ()=>{
                <div className="text_field">
                   <input type="password"  onChange={(e)=>setPassword(e.target.value)} value={password} placeholder="Password" />
                </div>
-               <input className="button" type="submit"  value="LogIn"  />
-                <Link  to="/Signup">
+               <input className="button" type="submit"  value="LOGIN"  />
+                <Link  to="/Signup" className="span">
                    <span>Create New Account</span>
                 </Link>
             </form>
