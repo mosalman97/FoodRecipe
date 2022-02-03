@@ -1,32 +1,42 @@
-import React,{useState} from "react";
+import React, { useState } from "react";
 import "./Signup.css";
-import {useHistory} from "react-router-dom";
+import { useHistory } from "react-router-dom";
 import axios from "axios";
-import {BASE_URL} from "../../baseurl"
+import { BASE_URL } from "../../baseurl";
 
 function Signup() {
-    const[username,setusername] = useState("");
-    const[email,setEmail] = useState("");
-    const[password,setPassword] = useState("");
-    const[message,setMessage] = useState("")
+    const [username, setusername] = useState("");
+    const [email, setEmail] = useState("");
+    const [password, setPassword] = useState("");
+    const [message, setMessage] = useState("");
     const history = useHistory();
 
-
-    const handlesubmit = (event)=>{
+    const handlesubmit = (event) => {
         event.preventDefault();
-        axios.post(`${BASE_URL}/auth/register/`,{first_name:username,email,password}).then((response)=>{
-            console.log(response.data.data)
-            let data = response.data.data;
-            let statusCode = response.data.StatusCode;
-            if(statusCode === 6000){
-                localStorage.setItem("user_data",JSON.stringify(data))
-                history.push("/Home")
-            }else{
-                setMessage(response.data.message)
-            }
-            
-        })
-    }
+        axios
+            .post(`${BASE_URL}/auth/register/`, {
+                first_name: username,
+                email,
+                password,
+            })
+            .then((response) => {
+                console.log(response.data.data);
+                let data = response.data.data;
+                let statusCode = response.data.StatusCode;
+                if (statusCode === 6000) {
+                    localStorage.setItem("user_data", JSON.stringify(data));
+                    history.push("/Home");
+                } else {
+                    setMessage(response.data.message);
+                }
+            })
+            .catch((error) => {
+                console.log(error.response);
+                if (error.response.status === 401) {
+                    setMessage(error.response.data.detail);
+                }
+            });
+    };
     return (
         <div className="Container">
             <h1>Food Recipes</h1>
@@ -34,7 +44,7 @@ function Signup() {
                 <div className="text_field">
                     <input
                         type="text"
-                        onChange={(e)=>setusername(e.target.value)}
+                        onChange={(e) => setusername(e.target.value)}
                         value={username}
                         placeholder="Username"
                     />
@@ -42,7 +52,7 @@ function Signup() {
                 <div className="text_field">
                     <input
                         type="email"
-                        onChange={(e)=>setEmail(e.target.value)}
+                        onChange={(e) => setEmail(e.target.value)}
                         value={email}
                         placeholder="Email"
                     />
@@ -50,7 +60,7 @@ function Signup() {
                 <div className="text_field">
                     <input
                         type="password"
-                        onChange={(e)=>setPassword(e.target.value)}
+                        onChange={(e) => setPassword(e.target.value)}
                         value={password}
                         placeholder="Password"
                     />
